@@ -24,8 +24,8 @@ cifrador Jacob
       <h1 class="letra"><p style="color:#";>LA MEJOR AGENCIA DE TROCAS</p>
 <h1>
       <h2><h2 class="aviso">las mejores trocas<h2>
-      <p class="borde">bienvenidos al nuevo consecionario de coches de alta gamma<p>
-        <p class="borde">la marca creada el 20 de mayo de 2016 ah avanzado año tras año hasta ser una de las mejores del mundo<p>
+      <p class="borde">bienvenidos al nuevo consecionario de coches de alta gamma</p>
+        <p class="borde">la marca creada el 20 de mayo de 2016 ah avanzado año tras año hasta ser una de las mejores del mundo</p>
       <body>
         <img
       src="troca1.jpg">
