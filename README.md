@@ -69,11 +69,10 @@ cifrador Jacob
                <td>29323</td>
                <td>falta de mercancia</td>
           </tr>
-
-          </tr>
+        
      </table>
 </h1>
-</html>
+
  
 
  <img
