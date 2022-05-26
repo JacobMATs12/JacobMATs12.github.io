@@ -1,6 +1,5 @@
 # JacobMATs12.github.io
-cifrador Jacob 
-<!DOCTYPE html>
+
 <html>
      
       <head>
@@ -21,7 +20,7 @@ cifrador Jacob
            <li><a href="https://www.ford.mx/camiones/lobo/2022/">ford</a>></li>
             <li><a href="https://www.gmc.com.mx">sierra</a>></li>
         </ul>
-      <h1 class="letra"><p style="color:#";>LA MEJOR AGENCIA DE TROCAS</p>
+      <h1 class="letra">LA MEJOR AGENCIA DE TROCAS
 <h1>
       <h2><h2 class="aviso">las mejores trocas<h2>
       <p class="borde">bienvenidos al nuevo consecionario de coches de alta gamma</p>
